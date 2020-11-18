@@ -1,0 +1,17 @@
+body {
+    color: red;
+    font-size: larger;
+    font-weight: lighter;
+    font-family: bodoni;
+    text-align: center;
+    background-color: white;
+    margin: 50px;
+    padding: 50px;
+    width: 50%;
+    height: 20%;
+    position: absolute;
+}
+#cb{
+    font-style: italic; 
+    font-size: medium;
+}
